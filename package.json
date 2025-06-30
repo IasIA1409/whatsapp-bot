@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.37.2",
+    "openai": "^5.8.2"
+  }
+}
